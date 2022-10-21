@@ -1,0 +1,12 @@
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\Kalkulacka.csproj.AssemblyReference.cache
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\Kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\Kalkulacka.AssemblyInfoInputs.cache
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\Kalkulacka.AssemblyInfo.cs
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\Kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\bin\Debug\net6.0\Kalkulacka.deps.json
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\bin\Debug\net6.0\Kalkulacka.dll
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\bin\Debug\net6.0\Kalkulacka.pdb
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\Kalkulacka.dll
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\refint\Kalkulacka.dll
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\Kalkulacka.pdb
+C:\Users\Petr\Desktop\Csharp-pCv\UnitTests\Kalkulacka\obj\Debug\net6.0\ref\Kalkulacka.dll
